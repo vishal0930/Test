@@ -1,0 +1,9 @@
+It knows as ECMA Script 6
+It also called modern JS
+ES6 release in 2015.
+older version is ES5.
+In new version of ES6
+   introduce let, const, 
+arrow function, js classes, 
+default parameter values, Array.find(),
+Array.find(), Array.findIndex()
